@@ -147,7 +147,7 @@ a:hover {
 /* Post List */
 .hero {
   margin-bottom: 2.5rem;
-  padding-bottom: 1.5rem;
+  padding: 1.25rem 0;
   border-bottom: 1px solid var(--border);
 }
 
